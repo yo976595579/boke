@@ -1,5 +1,14 @@
-div{
-	width: 100px;
-	height: 100px;
-	background: rgba(121,145,14,1);
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	font-family :Serif;
+	color: rgba(248,248,255,1);
 }
+body{
+	background: url(imgs/01.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
